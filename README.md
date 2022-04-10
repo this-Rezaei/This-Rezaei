@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Rezaei</h1>
 <h3 align="center">A passionate frontend developer from iran</h3>
 
-<h3 align="left">Connect with me:</h3>.
+<h3 align="left">Connect with me:</h3>
 
 <!-- <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eisa-rezaei&theme=nord_bright" width="100%" alt="Ali Rezaei"/>
