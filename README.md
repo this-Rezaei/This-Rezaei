@@ -35,9 +35,9 @@
 
 <!-- <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/sauravgupta"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sauravgupta" /></a></p><br><br> -->
-
+<div align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=this-Rezaei&show_icons=true&locale=en" alt="Ali Rezaei" /></p>
-
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=this-Rezaei&label=Profile%20views&color=0e75b6&style=flat" alt="Ali Rezaei" /> </p>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=this-Rezaei)
