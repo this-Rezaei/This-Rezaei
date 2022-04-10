@@ -3,9 +3,9 @@
 
 <h3 align="left">Connect with me:</h3>.
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eisa-rezaei&theme=nord_bright" width="100%" alt="Ali Rezaei"/>
- </div>
+ </div> -->
 
  <div align="center">
  <br>
