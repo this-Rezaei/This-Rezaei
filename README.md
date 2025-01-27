@@ -15,13 +15,7 @@
 
  <div align="center">
  <br>
-  <a href="https://t.me/this.rezaei">
-<img alt="telegram" src="https://img.shields.io/badge/Telegram-ffffff?style=for-the-badge&logo=Telegram&logoColor=white" />
-</a>  
-<a href="https://www.instagram.com/this.rezaei/">
-<img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a> 
-<a href="https://www.linkedin.com/in/rezz/">
+<a href="https://www.linkedin.com/in/ali-rezaei-30a976237/">
 <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>   
  
